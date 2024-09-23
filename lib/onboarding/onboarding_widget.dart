@@ -174,8 +174,8 @@ class _OnboardingWidgetState extends State<OnboardingWidget> {
                                           .primaryBackground,
                                       icon: Icon(
                                         Icons.add_circle_outline,
-                                        color:
-                                            FlutterFlowTheme.of(context).info,
+                                        color: FlutterFlowTheme.of(context)
+                                            .primaryText,
                                       ),
                                       onPressed: () {
                                         print('IconButton pressed ...');
