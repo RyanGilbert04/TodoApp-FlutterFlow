@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773318011609",
+    "project_id": "todopro-bewv1q",
+    "storage_bucket": "todopro-bewv1q.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773318011609:android:1a27f3370cd48b5ca62cc8",
+        "android_client_info": {
+          "package_name": "com.mycompany.todopro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNpf6P09SCerfTD-ZN9oFNQXZbFHpfXoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
